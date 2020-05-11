@@ -39,11 +39,11 @@ msgstr "Отримання відомостей з kernel.ubuntu.com..."
 
 #: src/Common/LinuxKernel.vala:694
 msgid "Could not find running kernel in list!"
-msgstr "Не вдалося знайти запущене ядро ​​у списку!"
+msgstr "Невдалося знайти запущене ядро у списку!"
 
 #: src/Common/LinuxKernel.vala:700
 msgid "Could not find any kernels to remove"
-msgstr "Не вдалося знайти жодне ядро ​​для видалення"
+msgstr "Невдалося знайти жодне ядро для видалення"
 
 #: src/Common/LinuxKernel.vala:709
 msgid "The following kernels will be removed:"
@@ -112,19 +112,19 @@ msgstr "Это ядро уже установлено."
 #: src/Common/LinuxKernel.vala:1253
 msgid "Installation completed. A reboot is required to use the new kernel."
 msgstr ""
-"Установка завершена. Обов'язково виконайте перезавантаження, щоб "
+"Встановлення завершено. Обов'язково виконайте перезавантаження, щоб "
 "використовувати нове ядро."
 
 #: src/Common/LinuxKernel.vala:1256
 msgid "Installation completed with errors"
-msgstr "Установка завершена з помилками"
+msgstr "Встановлення завершено з помилками"
 
 #: src/Common/LinuxKernel.vala:1272
 msgid ""
 "Selected kernel is currently running and cannot be removed.\n"
 " Install another kernel before removing this one."
 msgstr ""
-"Це ядро ​​зараз працює і не може бути видалено. \n"
+"Це ядро зараз працює і не може бути видалено.\n"
 "Встановіть інше ядро, перш ніж видаляти його."
 
 #: src/Common/LinuxKernel.vala:1277
@@ -133,11 +133,11 @@ msgstr "Підготовка до видалення вибраних ядер"
 
 #: src/Common/LinuxKernel.vala:1309 src/Common/LinuxKernel.vala:1362
 msgid "Un-install completed"
-msgstr "Удаление завершено"
+msgstr "Видалення завершено"
 
 #: src/Common/LinuxKernel.vala:1312 src/Common/LinuxKernel.vala:1365
 msgid "Un-install completed with errors"
-msgstr "Удаление завершено с ошибками"
+msgstr "Видалення завершено з помилками"
 
 #: src/Common/LinuxKernel.vala:1325
 msgid ""
