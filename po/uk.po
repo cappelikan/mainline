@@ -582,11 +582,11 @@ msgstr "Невдалося перемістити файл"
 #: src/Utility/TeeJee.FileSystem.vala:233
 #: src/Utility/TeeJee.FileSystem.vala:236
 msgid "Created directory"
-msgstr "Створений каталог"
+msgstr "Створено каталог"
 
 #: src/Utility/TeeJee.FileSystem.vala:243
 msgid "Failed to create dir"
-msgstr "Невдалося створити теку"
+msgstr "Невдалося створити каталог"
 
 #: src/Utility/TeeJee.FileSystem.vala:255
 msgid "Deleted"
