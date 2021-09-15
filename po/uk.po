@@ -296,7 +296,7 @@ msgstr "Показати"
 #: src/Console/AppConsole.vala:365 src/Console/AppConsole.vala:377
 #, fuzzy, c-format
 msgid "Kernel %s Available"
-msgstr "Доступні пакети"
+msgstr "Доступні %s Ядра"
 
 #: src/Console/AppConsole.vala:367 src/Console/AppConsole.vala:379
 #: src/Gtk/MainWindow.vala:330
@@ -330,7 +330,7 @@ msgstr "Інтернет з'єднання не активно"
 #: src/Gtk/MainWindow.vala:321 src/Gtk/MainWindow.vala:525
 #: src/Gtk/MainWindow.vala:655
 msgid "No Internet"
-msgstr "Інтернету немає"
+msgstr "Без зв'язку"
 
 #: src/Gtk/MainWindow.vala:339
 msgid "Multiple Kernels Selected"
@@ -351,7 +351,7 @@ msgstr "Виберіть ядро для встановлення"
 #: src/Gtk/MainWindow.vala:347
 #, fuzzy
 msgid "Uninstall"
-msgstr "Встановити"
+msgstr "Видалити"
 
 #: src/Gtk/MainWindow.vala:353
 #, fuzzy
@@ -366,7 +366,7 @@ msgstr "Закрийте вікно, щоб вийти..."
 #: src/Gtk/MainWindow.vala:391
 #, fuzzy
 msgid "Uninstall Old"
-msgstr "Видалення завершено"
+msgstr "Видалення старішого(их) встановленного(іх) ядра(ер)"
 
 #: src/Gtk/MainWindow.vala:392
 #, fuzzy
