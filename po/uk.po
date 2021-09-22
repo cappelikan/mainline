@@ -63,7 +63,7 @@ msgstr "Оновлень не знайдено"
 #: src/Common/LinuxKernel.vala:671
 #, fuzzy, c-format
 msgid "Install Kernel Version %s ? (y/n): "
-msgstr "Встановити Linux v% s? (так/ні): "
+msgstr "Встановити Ядро Версії %s? (так/ні): "
 
 #: src/Common/LinuxKernel.vala:909
 msgid "Packages Available"
