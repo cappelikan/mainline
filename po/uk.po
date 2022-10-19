@@ -522,7 +522,7 @@ msgstr "Документатори"
 #: src/Utility/Gtk/AboutWindow.vala:353
 #, fuzzy
 msgid "Third Party Inclusions"
-msgstr "Сторонні Розробники"
+msgstr "Включення третіх осіб"
 
 #: src/Utility/Gtk/CustomMessageDialog.vala:157
 msgid "Yes"
@@ -544,11 +544,11 @@ msgstr "Файл видалено"
 #: src/Utility/TeeJee.FileSystem.vala:76 src/Utility/TeeJee.FileSystem.vala:256
 #, fuzzy
 msgid "Failed to delete file"
-msgstr "Невдалося видалити файл"
+msgstr "Не вдалося видалити файл"
 
 #: src/Utility/TeeJee.FileSystem.vala:96
 msgid "Failed to read file"
-msgstr "Невдалося прочитати файл"
+msgstr "Не вдалося прочитати файл"
 
 #: src/Utility/TeeJee.FileSystem.vala:123
 msgid "File saved"
@@ -556,15 +556,15 @@ msgstr "Файл збережено"
 
 #: src/Utility/TeeJee.FileSystem.vala:129
 msgid "Failed to write file"
-msgstr "Невдалося записати файл"
+msgstr "Не вдалося записати файл"
 
 #: src/Utility/TeeJee.FileSystem.vala:141
 msgid "File copied"
-msgstr "Невдалося скопіювати файл"
+msgstr "Не вдалося скопіювати файл"
 
 #: src/Utility/TeeJee.FileSystem.vala:148
 msgid "Failed to copy file"
-msgstr "Невдалося скопіювати файл"
+msgstr "Не вдалося скопіювати файл"
 
 #: src/Utility/TeeJee.FileSystem.vala:157
 msgid "File not found"
@@ -576,7 +576,7 @@ msgstr "Файл переміщено"
 
 #: src/Utility/TeeJee.FileSystem.vala:176
 msgid "Failed to move file"
-msgstr "Невдалося перемістити файл"
+msgstr "Не вдалося перемістити файл"
 
 #: src/Utility/TeeJee.FileSystem.vala:233
 #: src/Utility/TeeJee.FileSystem.vala:236
@@ -585,7 +585,7 @@ msgstr "Створений каталог"
 
 #: src/Utility/TeeJee.FileSystem.vala:243
 msgid "Failed to create dir"
-msgstr "Невдалося створити теку"
+msgstr "Не вдалося створити теку"
 
 #: src/Utility/TeeJee.FileSystem.vala:255
 msgid "Deleted"
