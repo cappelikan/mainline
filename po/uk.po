@@ -365,7 +365,7 @@ msgstr "Закрийте вікно, щоб вийти..."
 #: src/Gtk/MainWindow.vala:391
 #, fuzzy
 msgid "Uninstall Old"
-msgstr "Видалити старе"
+msgstr "Видалити старі"
 
 #: src/Gtk/MainWindow.vala:392
 #, fuzzy
