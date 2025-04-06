@@ -806,7 +806,7 @@ msgstr "Mainline-PPA URL"
 
 #: src/Gtk/SettingsWindow.vala:246
 msgid "User Agent String"
-msgstr ""
+msgstr "Рядок агента користувача"
 
 #: src/Gtk/SettingsWindow.vala:261
 msgid "External Commands"
